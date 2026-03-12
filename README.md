@@ -1,4 +1,4 @@
 # Git-demo
 This is my first git repository.
 <br>
-Author-Bhuvana
+Author-Bhuvana Puvvada
